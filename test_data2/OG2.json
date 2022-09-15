@@ -1,0 +1,154 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Qcr_poly",
+      "points": [
+        [
+          37.76923076923072,
+          1416.7692307692307
+        ],
+        [
+          87.0,
+          1442.923076923077
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PeShgr_poly",
+      "points": [
+        [
+          37.58823529411757,
+          1450.5882352941178
+        ],
+        [
+          85.82352941176464,
+          1474.1176470588236
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Peqm_poly",
+      "points": [
+        [
+          37.58823529411757,
+          1483.5294117647059
+        ],
+        [
+          85.82352941176464,
+          1505.8823529411766
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Kog_poly",
+      "points": [
+        [
+          38.76470588235293,
+          1512.9411764705883
+        ],
+        [
+          85.82352941176464,
+          1538.8235294117646
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "MJgr_poly",
+      "points": [
+        [
+          38.76470588235293,
+          1547.0588235294117
+        ],
+        [
+          85.82352941176464,
+          1570.5882352941178
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "MJNgd_poly",
+      "points": [
+        [
+          39.94117647058829,
+          1578.8235294117646
+        ],
+        [
+          85.82352941176464,
+          1602.3529411764707
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Cpm_poly",
+      "points": [
+        [
+          38.76470588235293,
+          1608.235294117647
+        ],
+        [
+          87.0,
+          1632.9411764705883
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Fault_line",
+      "points": [
+        [
+          33.15384615384619,
+          1389.076923076923
+        ],
+        [
+          88.53846153846143,
+          1409.076923076923
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "AccessRd_poly",
+      "points": [
+        [
+          37.76923076923072,
+          1641.3846153846152
+        ],
+        [
+          90.0769230769231,
+          1666.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "OG2.png",
+  "imageData": null,
+  "imageHeight": 1718,
+  "imageWidth": 1276
+}

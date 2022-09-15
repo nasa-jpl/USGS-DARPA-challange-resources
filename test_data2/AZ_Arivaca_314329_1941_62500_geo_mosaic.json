@@ -1,0 +1,58 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3_pt",
+      "points": [
+        [
+          498.48484848484844,
+          6181.818181818181
+        ],
+        [
+          549,
+          6224
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "4_pt",
+      "points": [
+        [
+          722.7272727272727,
+          6175.757575757575
+        ],
+        [
+          781.8181818181818,
+          6221.212121212121
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "5_pt",
+      "points": [
+        [
+          1250.0,
+          6175.757575757575
+        ],
+        [
+          1311,
+          6224
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "AZ_Arivaca_314329_1941_62500_geo_mosaic.tif",
+  "imageData": null,
+  "imageHeight": 6225,
+  "imageWidth": 5088
+}
